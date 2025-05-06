@@ -1,0 +1,6 @@
+timestamp,sensor_type,sensor_value,location
+3/3/2025 11:47,door,OPEN,front_door
+3/3/2025 11:50,camera,TRIGGERED,garage
+3/3/2025 11:50,glass_break,DETECTED,front_door
+3/3/2025 11:50,motion,ON,garage
+3/3/2025 20:55,glass_break,DETECTED,front_door
